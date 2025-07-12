@@ -78,7 +78,7 @@ Once I feel confident with the base system, I plan to install and configure tool
 
 Here’s a screenshot of my current setup:
 
-![Hyprland + foot + Catppuccin](./screenshots/arch-linux-setup.jpg)  
+![My Arch Setup](./Screenshots/arch-linux-setup.jpg)  
 Customized Arch Linux environment using Hyprland and the Catppuccin theme inside VirtualBox.
 
 ---
@@ -93,4 +93,3 @@ Using Arch Linux has been a powerful learning experience. Installing everything 
 
 - LinkedIn: rayyan-n-al-shahrani-72704b292  
 - GitHub: [Root-X4](https://github.com/Root-X4)  
-- TryHackMe: Finished 70+ rooms (Offensive focus)
